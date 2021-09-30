@@ -1,4 +1,3 @@
-00FF7F
 #instalando Maria DB
 
 sudo apt install mariadb-server -y
